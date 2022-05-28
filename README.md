@@ -42,4 +42,14 @@ and for SSH, use the following command;
 git@github.com:BrianJomo/Image-Gallery.git
 
 ```
+Then run the following commands in the terminal then run the manage.py file in order to run the web application.
+
+```
+$ python3.8 -m venv --without-pip virtual
+
+$ source virtual/bin/activate
+
+$ curl https://bootstrap.pypa.io/get-pip.py | python
+
+$ pip3 install -r requirements.txt 
 
