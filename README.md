@@ -24,3 +24,4 @@ This project involves creating a gallery website where web visitors can view a v
 
 To gain acess to this application click on this link: https://github.com/BrianJomo/Image-Gallery
 
+### Requirements
