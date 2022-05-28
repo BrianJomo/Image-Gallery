@@ -78,3 +78,4 @@ To explore the features of this news website navigate to this link on your brows
 * Bootsrap - which was also used to style the web pages.
 
 * Django - Which made creating web applications in Python easier.
+
