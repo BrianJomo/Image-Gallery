@@ -16,3 +16,5 @@
 
 
 ## Description
+
+This project involves creating a gallery website where web visitors can view a variety of images and a slight description. Web visitors can also copy the link of the image and share it if required.
