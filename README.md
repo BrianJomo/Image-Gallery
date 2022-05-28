@@ -53,3 +53,12 @@ $ curl https://bootstrap.pypa.io/get-pip.py | python
 
 $ pip3 install -r requirements.txt 
 
+$ python3.8 manage.py check
+
+$ python3.8 manage.py makemigrations <installed app name>
+
+$ python3.8 manage.py sqlmigrate <installed app name> 0001
+
+$ python3.8 manage.py migrate
+
+```
