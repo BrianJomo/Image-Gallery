@@ -29,3 +29,17 @@ To gain acess to this application click on this link: https://github.com/BrianJo
 * Either a computer,phone,tablet or an Ipad.
 
 * An access to the Internet.
+
+
+### Installation Process
+
+To access this application, type the following command in your terminal to have a local copy of the application.
+```
+https://github.com/BrianJomo/Image-Gallery.git
+```
+and for SSH, use the following command;
+```
+git@github.com:BrianJomo/Image-Gallery.git
+
+```
+
