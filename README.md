@@ -36,6 +36,7 @@ To gain acess to this application click on this link: https://github.com/BrianJo
 To access this application, type the following command in your terminal to have a local copy of the application.
 ```
 https://github.com/BrianJomo/Image-Gallery.git
+
 ```
 and for SSH, use the following command;
 ```
@@ -62,3 +63,18 @@ $ python3.8 manage.py sqlmigrate <installed app name> 0001
 $ python3.8 manage.py migrate
 
 ```
+
+To explore the features of this news website navigate to this link on your browser or just click on this link: 
+
+
+## Technology Used
+
+* Python - Which was used to structure and build the logic hence interactive with the client-side and server-side.
+
+* HTML - which was used to build the structure of the web pages.
+
+* CSS - which was used to style the web pages.
+
+* Bootsrap - which was also used to style the web pages.
+
+* Django - Which made creating web applications in Python easier.
