@@ -62,6 +62,8 @@ $ python3.8 manage.py sqlmigrate <installed app name> 0001
 
 $ python3.8 manage.py migrate
 
+$ python3.8 manage.py runserver
+
 ```
 
 To explore the features of this news website navigate to this link on your browser or just click on this link: 
