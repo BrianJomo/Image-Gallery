@@ -62,7 +62,7 @@ $ python3.8 manage.py sqlmigrate <installed app name> 0001
 
 $ python3.8 manage.py migrate
 
-$ python3.8 manage.py runserver
+$ python3 manage.py runserver
 
 ```
 
