@@ -79,3 +79,11 @@ To explore the features of this news website navigate to this link on your brows
 
 * Django - Which made creating web applications in Python easier.
 
+
+## Reference
+
+* PEP 8 – Style Guide for Python.
+
+* Materialize CSS.
+
+* Django documentation.
