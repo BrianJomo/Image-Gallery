@@ -2,7 +2,7 @@
 
 ##### By Brian Jomo.
 
-### It is a description of the Quriousquest Blog.
+### It is a description of the The Gallary.
 
 
 ## Table of Content
