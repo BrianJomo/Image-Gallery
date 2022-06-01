@@ -66,7 +66,7 @@ $ python3 manage.py runserver
 
 ```
 
-To explore the features of this news website navigate to this link on your browser or just click on this link: https://gallary-hub.herokuapp.com/
+To explore the features of this gallary website navigate to this link on your browser or just click on this link: https://gallary-hub.herokuapp.com/
 
 
 ## Technology Used
