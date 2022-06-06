@@ -79,6 +79,7 @@ To explore the features of this gallary website navigate to this link on your br
 
 * Django - Which made creating web applications in Python easier.
 
+* Postgresql - Which was used as a database for data storage.
 
 ## Reference
 
@@ -89,7 +90,7 @@ To explore the features of this gallary website navigate to this link on your br
 * Django documentation.
 
 
-## Licence
+## License
 
 MIT License
 
