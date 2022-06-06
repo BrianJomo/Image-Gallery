@@ -36,12 +36,10 @@ To gain acess to this application click on this link: https://github.com/BrianJo
 To access this application, type the following command in your terminal to have a local copy of the application.
 ```
 https://github.com/BrianJomo/Image-Gallery.git
-
 ```
 and for SSH, use the following command;
 ```
 git@github.com:BrianJomo/Image-Gallery.git
-
 ```
 Then run the following commands in the terminal then run the manage.py file in order to run the web application.
 
