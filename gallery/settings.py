@@ -132,9 +132,9 @@ STATICFILES_DIRS = (
 )
 STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'static')
 # cloudinary.config(
-#   cloud_name = "gabrielmoringa",
-#   api_key = "122276654221999",
-#   api_secret = "ZVEQ0P4nbe2BALTPww7zTjmnCUI"
+#   cloud_name = "****",
+#   api_key = "****",
+#   api_secret = "***"
 # )
 
 
